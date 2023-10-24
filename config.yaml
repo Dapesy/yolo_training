@@ -1,0 +1,10 @@
+
+path:  /content/drive/MyDrive/cars #use absolute path not relative
+train: /content/drive/MyDrive/cars/images
+val:   /content/drive/MyDrive/cars/images
+
+# classes
+names:
+  0 :  Car
+
+
